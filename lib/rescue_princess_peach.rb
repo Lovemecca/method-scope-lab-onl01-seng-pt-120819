@@ -8,5 +8,5 @@ def rescue_princess_peach
 
 
 
-## rescue_princess_peach
-## status
+rescue_princess_peach
+status
